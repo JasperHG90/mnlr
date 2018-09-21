@@ -1,0 +1,11 @@
+Package: mnlr
+Type: Package
+Title: Multinomial/Binomial Logistic Regression Models
+Version: 0.1.0
+Author: Jasper Ginn
+Maintainer: Jasper Ginn <jasperginn@gmail.com>
+Description: Simple implementation of logistic regression
+    based on Andrew Ng's 'Deep Learning' specialization on
+    Coursera. 
+Encoding: UTF-8
+LazyData: true
